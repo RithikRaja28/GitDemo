@@ -1,0 +1,11 @@
+# Conflict/backup files
+*.swp
+*.orig
+*_LOCAL_*.xml
+*_REMOTE_*.xml
+*_BASE_*.xml
+hello_BACKUP_*.xml
+
+# Ignore log folder and .log files
+log/
+*.log
